@@ -13,7 +13,7 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JS195&theme=github_dark"
+    src="profile-summary-card-output/github_dark/3-stats.svg"
     alt="Joshua's GitHub statistics"
   />
 </p>
